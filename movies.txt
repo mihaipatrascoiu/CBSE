@@ -1,0 +1,8 @@
+PulpFiction QuentinTarantino 1994
+Alien RidleyScott 1979
+ASpaceOdyssey StanleyKubrick 1968
+Interstellar ChristopherNolan 2014
+ThePrestige ChristopherNolan 2006 
+InglouriousBasterds QuentinTarantino 2009
+DjangoUnchained QuentinTarantino 2012
+TheHatefulEight QuentinTarantino 2015
